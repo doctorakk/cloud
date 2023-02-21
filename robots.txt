@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cloud9.pages.dev/sitemap.xml
